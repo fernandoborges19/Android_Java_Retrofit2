@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Java_Retrofit2</string>
+    <string name="txtUserId">Informe o ID do usuario:</string>
+    <string name="txtBody">email do usuário</string>
+    <string name="btnEditComments">Editar</string>
+    <string name="txtTitulo">Nome do usuário</string>
+    <string name="txtBody1">Mensagem:</string>
+    <string name="txtId">id da mensagem</string>
+</resources>
